@@ -97,6 +97,6 @@ public class EmployeeManager {
         emp.displayDetails();
         System.out.println();
         mng.displayDetails();
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

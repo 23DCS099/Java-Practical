@@ -23,7 +23,7 @@ public class Currencyconversion {
     protected void takePound(){
         System.out.println("Enter the value in Pound: ");
         float Pound = sc.nextFloat();
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
     
 }

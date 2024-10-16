@@ -57,6 +57,6 @@ public class ClassRoomManagement {
 
         System.out.println("\n\nThe total number of students passed is: " + pass);
         System.out.println("The total number of students passed is: " + fail);
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

@@ -32,6 +32,6 @@ public class ErrorNException2 {
             e.printStackTrace();
         }
 
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

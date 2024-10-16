@@ -79,6 +79,6 @@ public class MultiThreading {
         consumerThread.join();
 
         System.out.println("Producer and Consumer have finished execution.");
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

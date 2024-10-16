@@ -71,6 +71,6 @@ public class DateTest {
     public static void main(String[] args) {
         Date d1 = new Date(05,07,2005);
         d1.displayDate();
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

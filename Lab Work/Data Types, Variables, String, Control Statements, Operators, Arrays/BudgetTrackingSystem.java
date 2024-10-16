@@ -24,7 +24,7 @@ public class BudgetTrackingSystem {
             expense += arr[i];
         }
         System.out.println("Your total expense is: $" + expense);
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }
 

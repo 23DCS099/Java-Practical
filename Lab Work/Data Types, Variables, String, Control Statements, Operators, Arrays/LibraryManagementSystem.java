@@ -61,6 +61,6 @@ public class LibraryManagementSystem {
           System.out.println("Have a good day !!!");
         }
 
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

@@ -60,6 +60,6 @@ public class CalculateArea {
     public static void main(String[] args) {
         Square s1 = new Square(4);
         s1.area();
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

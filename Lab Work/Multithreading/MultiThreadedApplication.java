@@ -58,6 +58,6 @@ public class MultiThreadedApplication {
         randomNumberGenerator.start();
         squareCalculator.start();
         cubeCalculator.start();
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

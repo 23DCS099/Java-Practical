@@ -29,6 +29,6 @@ public class SpeedCalculator {
         System.out.printf("Speed is %.2f m/s\n", speed);
         System.out.printf("Speed is %.2f km/hr\n", speed * (18 / 5));
         System.out.printf("Speed is %.2f miles/hour\n", speed * (3600 / 1609));
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

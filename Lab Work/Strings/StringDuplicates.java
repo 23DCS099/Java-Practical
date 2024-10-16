@@ -77,7 +77,7 @@ public class StringDuplicates {
                 System.out.printf("%c appears %d times\n", (char)i, charCount[i]);
             }
     }
-    System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+    
 }
 
 }

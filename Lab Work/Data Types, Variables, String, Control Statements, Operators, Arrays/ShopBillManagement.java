@@ -99,7 +99,7 @@ public class ShopBillManagement {
         for(int i=0; i<ans; i++){
             System.out.println(choices[i] + "\t\t\t"+ productName[choices[(i)]-1] + "\t\t\t" + productQuantity[choices[(i)]-1] + "\t\t\t" + "100");
         }
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
 
     }
     public static void allocatingBillNo() {

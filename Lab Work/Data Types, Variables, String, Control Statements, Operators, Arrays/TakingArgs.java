@@ -5,6 +5,6 @@ public class TakingArgs {
         int Rupees=pound*100;
         //String[] arr = new String[10];
         System.out.println(Rupees);
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

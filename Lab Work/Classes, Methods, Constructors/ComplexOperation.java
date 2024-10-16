@@ -50,6 +50,6 @@ public class ComplexOperation {
         Complex c2 = new Complex(18,24);
         c2.AddComplex(c1);
         c2.displayComplex();
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }   
 }

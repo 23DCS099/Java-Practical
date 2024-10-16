@@ -38,6 +38,6 @@ public class TestShape {
         Square s = new Square();
         s.printShape();
         s.printRectangle();
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

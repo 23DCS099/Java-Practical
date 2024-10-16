@@ -18,7 +18,7 @@ public class StringManipulation {
         System.out.printf("Enter a repetition value: ");
         int n = sc.nextInt();
         System.out.println(stringReturn(str, n));
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
         
     }
     public static StringBuilder stringReturn(String str, int num){

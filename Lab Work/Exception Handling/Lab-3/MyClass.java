@@ -19,6 +19,6 @@ public class MyClass {
         else{
             System.out.println("You are eligible for voting in 2019");
         }
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

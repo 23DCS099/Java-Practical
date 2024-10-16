@@ -50,7 +50,7 @@ public class TestArea {
         Area a1 = new Area();
         Area a2 = new Area();
         a1.readData(a1);
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
         // a2.displayArea();
     }
 }

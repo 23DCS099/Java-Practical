@@ -24,6 +24,6 @@ public class StringOperation{
                 System.out.printf("%c%c", str1, str1);
             }
         }
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

@@ -25,7 +25,7 @@ public class SubStringReplacement {
         }
         else{
             System.out.println("The String you enter does not exist in the sentence !!!");
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
     }
 }

@@ -65,6 +65,6 @@ class ProducerConsumerWithSync {
 
         producerThread.join();
         consumerThread.join();
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

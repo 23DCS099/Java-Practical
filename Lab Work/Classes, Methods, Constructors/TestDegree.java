@@ -34,7 +34,7 @@ public class TestDegree {
         Undergraduate ug = new Undergraduate();
         deg.getDegree();
         ug.getDegree();
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
         pg.getDegree();
     }
 }

@@ -15,7 +15,7 @@ public class ErrorsNExceptions{
             // System.out.println("Catch block successfully executed");
         }
 
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
         // System.out.println("out of try and catch");
 
         // int a[] = {10,20,30};

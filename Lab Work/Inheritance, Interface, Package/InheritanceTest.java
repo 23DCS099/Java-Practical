@@ -25,6 +25,6 @@ public class InheritanceTest{
         ParentClass parent = new ParentClass();
         parent.message();
         child.message();
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

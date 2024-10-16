@@ -14,6 +14,6 @@ public class StringFunctionalities {
         System.out.println("The length of the string is: "+str.length());
         System.out.println("After replacing H with K: "+str.replaceAll("H", "K"));
         System.out.println("The lowercase of the string is: " + str.toUpperCase());
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

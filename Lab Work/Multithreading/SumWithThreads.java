@@ -71,6 +71,6 @@ public class SumWithThreads {
 
         // Display the final result
         System.out.println("The sum of the first " + N + " numbers is: " + finalSum);
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

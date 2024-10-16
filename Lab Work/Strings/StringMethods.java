@@ -38,6 +38,6 @@ public class StringMethods {
         }
         //Sort the string
     System.out.println("\nThe sorted string is: "+str);
-    System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+    
 }
 }

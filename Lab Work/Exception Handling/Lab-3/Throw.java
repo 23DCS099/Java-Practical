@@ -13,6 +13,6 @@ public class Throw{
             System.out.println(e.getMessage());
             System.out.println("Exception Caught Successfully");
         }
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

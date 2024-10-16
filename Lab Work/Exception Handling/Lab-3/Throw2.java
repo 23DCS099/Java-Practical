@@ -3,6 +3,6 @@ public class Throw2 {
         System.out.println("User Defined Exception");
         throw new ArithmeticException("Charusat/by zero");
         // System.out.println("Rest of the code");
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

@@ -26,7 +26,7 @@ public class NumberOfNine {
         int digit=sc.nextInt();
 
         System.out.println("The given digit is present "+array_count9(arrayLength, digit, array)+" times in the given list");
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
 
     }
     private static int array_count9(int arrayLength, int digit, int array[]){  

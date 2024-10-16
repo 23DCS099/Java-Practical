@@ -13,6 +13,6 @@ public class BankingSystem {
         Scanner sc = new Scanner(System.in);
         currBalance = sc.nextDouble();
         System.out.println("Your current balance is: $" + currBalance);
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }

@@ -76,6 +76,6 @@ public class EmployeeTest {
         salary2+=(0.1*salary2);
         System.out.println("The raised salary of emp1 is: "+salary1);
         System.out.println("The raised salary of emp2 is: "+salary2);
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        
     }
 }
